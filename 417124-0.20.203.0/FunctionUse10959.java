@@ -1,0 +1,6 @@
+import org.apache.hadoop.mapreduce.StatusReporter;
+public class FunctionUse10959 {
+public void funcUse() {
+StatusReporter statusreporter = new StatusReporter();
+}
+}
